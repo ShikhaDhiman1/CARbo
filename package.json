@@ -1,7 +1,6 @@
 {
   "name": "codemakeuc",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,5 +12,15 @@
     "mysql2": "^2.3.3",
     "node-localstorage": "^2.2.1",
     "nodemon": "^2.0.20"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShikhaDhiman1/CARbo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ShikhaDhiman1/CARbo/issues"
+  },
+  "homepage": "https://github.com/ShikhaDhiman1/CARbo#readme",
+  "description": ""
 }
